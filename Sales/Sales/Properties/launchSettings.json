@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sales": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
